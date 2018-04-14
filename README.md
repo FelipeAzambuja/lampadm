@@ -1,0 +1,2 @@
+# lampadm
+Lamp admin
